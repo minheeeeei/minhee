@@ -95,7 +95,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 400px;
+  width: 350px;
   height: 92px;
   border-radius: 24px;
   background-color: rgb(35, 35, 35);
@@ -139,7 +139,7 @@ body {
 .strength-text {
   font-family: sans-serif;
   font-size: 28px;
-  font-weight: 300;
+  font-weight: 400;
   text-align: left;
   margin-top: 36px;
   margin-left: 16px;
@@ -174,7 +174,7 @@ body {
 .last-text {
   color: rgb(255, 255, 255);
   font-size: 28px;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 80px;
   margin-top: 40px;
   margin-left: 16px;
