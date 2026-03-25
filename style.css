@@ -186,3 +186,24 @@ body {
   color: #909090;
   margin-top: 300px;
 }
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0; /* 위아래 여백 */
+}
+
+.medium-button {
+  display: inline-block;
+  padding: 15px 30px;
+  background-color: aqua;
+  color: black;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: bold;
+  transition: background-color 0.3s ease; /* 부드러운 색상 변경 */
+}
+
+.medium-button:hover {
+  background-color: #444; /* 마우스 올렸을 때 색상 */
+}
